@@ -1,3 +1,13 @@
+| Bilgi | Detay |
+| :--- | :--- |
+| **Ad Soyad** | Selameddin Tirit |
+| **Öğrenci No** | 240541035 |
+| **Bölüm** | Yazılım Mühendisliği (A) |
+| **Fakülte** | Teknoloji Fakültesi |
+
+
+
+
 # 🏦 FaceID - Banka Tipi Yüz Tanıma Sistemi
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
